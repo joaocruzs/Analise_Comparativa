@@ -16,4 +16,4 @@ Dispõe-se dos seguintes códigos para se realizar uma análise experimental dos
 6. Radix Sort
    Organiza os elementos com base em suas posições ou dígitos, processando-os em várias etapas até ordenar a entrada por completo.
 7. Counting Sort
-    Calcula a frequência de cada valor em um intervalo limitado, reorganizando os elementos com base nessas contagens
+   Calcula a frequência de cada valor em um intervalo limitado, reorganizando os elementos com base nessas contagens
