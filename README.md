@@ -17,3 +17,5 @@ Dispõe-se dos seguintes códigos para se realizar uma análise experimental dos
    Organiza os elementos com base em suas posições ou dígitos, processando-os em várias etapas até ordenar a entrada por completo.
 7. Counting Sort <br>
    Calcula a frequência de cada valor em um intervalo limitado, reorganizando os elementos com base nessas contagens
+8. Create Array <br>
+   O referido algorimto recebe um valor de entrada, é responsável pela criação de arquivos .txt com números a serem ordenados.
